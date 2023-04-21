@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:lightblue;
+	border:2px solid black;
+	display:flex;
+	justify-content:space-around;
+	
+}
